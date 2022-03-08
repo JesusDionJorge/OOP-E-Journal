@@ -13,7 +13,7 @@
 
 07 15/11/2021 Exception Handling Polymorphism - Function Overloading 
 
-08 22/11/2021 Exception Handling Inheritances Session 8 22-11-2021
+08 22/11/2021 Exception Handling Inheritances 
 
 09 29/11/2021 · Multilevel inheritance · Hierarchical inheritance · Hybrid inheritance · Method Overriding in Java 
 
