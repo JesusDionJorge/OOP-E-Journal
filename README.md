@@ -1,7 +1,7 @@
 # OOP-E-Journal
 - 01  Introduction to Java Application and Use of language.   
-  Difference between JRE,JDK JVM. What is Java Bytecode.   
-  Why is Java Platform Independent? Installation of JDK and Eclipse.   
+      Difference between JRE,JDK JVM. What is Java Bytecode.   
+      Why is Java Platform Independent? Installation of JDK and Eclipse.   
 
 - 02  Simple Programs, Data types, Control statements and Java Packages 
 
