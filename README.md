@@ -1,9 +1,9 @@
 # OOP-E-Journal
-01 20/09/2021 Introduction to Java Application and Use of language. Difference between JRE,JDK JVM. What is Java Bytecode. Why is Java Platform Independent? Installation of JDK and Eclipse. 
+01 Introduction to Java Application and Use of language. Difference between JRE,JDK JVM. What is Java Bytecode. Why is Java Platform Independent? Installation of JDK and Eclipse. 
 
-02 27/09/2021 Simple Programs, Data types, Control statements and Java Packages 
+02 Simple Programs, Data types, Control statements and Java Packages 
 
-03 04/10/2021 Implementing Classes and objects 
+03 Implementing Classes and objects 
 
 04 11/10/2021 Arrays, Array of Objects, Getters & Setters Object Communications 
 
